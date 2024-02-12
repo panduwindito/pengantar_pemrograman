@@ -1,2 +1,2 @@
 # pengantar_pemrograman
-Materi Pengantar Pemrograman
+Repository ini akan berisi materi dan catatan pengantar pemrograman untuk yang ingin mulai belajar pemrograman dari awal. 
